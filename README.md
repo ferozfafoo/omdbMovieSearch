@@ -11,4 +11,4 @@ The web application allows users to search for films and select movies to "watch
 Try the web application here: https://omdb-chat-app.herokuapp.com/
 
 
-**NOTE** This application is inteded to be used on Desktop, laptops and tablets. 
+**NOTE: This application is intended to be used only on desktops, laptops and tablets. ** 
